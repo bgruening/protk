@@ -7,7 +7,7 @@
 require 'yaml'
 require 'logger'
 require 'pathname'
-require 'ftools'
+require 'fileutils'
 
 class Constants
 
